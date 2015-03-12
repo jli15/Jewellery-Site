@@ -90,7 +90,7 @@ function MM_swapImage() { //v3.0
 
 <div id="apDiv4"><!-- TemplateBeginEditable name="Photos" --><table><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table><h1>&nbsp;</h1>
 <!-- TemplateEndEditable --></div>
-<div align="center"><img src="../Logo.png" width="240" height="111" align="middle" /></div>
+<div align="center"><a href="../Home.html"><img src="../Logo.png" width="240" height="111" align="middle" /></a></div>
 
 
 </body>
